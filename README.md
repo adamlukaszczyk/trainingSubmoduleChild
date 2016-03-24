@@ -1,0 +1,2 @@
+# trainingSubmoduleChild
+For training purpose
